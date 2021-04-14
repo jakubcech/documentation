@@ -2,6 +2,10 @@
 
 **Hub is a wallet management system for cryptocurrency exchanges. Through its application programming interfaces (APIs), Hub offers you an easy way to integrate IOTA into an exchange by managing seeds, addresses, transactions, and storage of IOTA tokens.**
 
+:::warning:Legacy documentation
+We are developing Chrysalis, the largest update in IOTA history. Hub is no longer supported with Chrysalis. Please use the [wallet.rs library](https://chrysalis.docs.iota.org/guides/exchange_guide.html) to integrate exchange functionality instead.
+:::
+
 To interact with an IOTA network, Hub communicates with the API of a node. This connection gives Hub access to the Tangle.
 
 To allow you to interact with Hub, it has its own gRPC or RESTful API, which includes calls for creating new Hub users in the database, processing trades, and more.

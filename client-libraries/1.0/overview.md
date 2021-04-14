@@ -2,10 +2,6 @@
 
 **The IOTA client libraries make it easy for you to integrate IOTA into your own applications. Choose a client library to match your use case.**
 
-:::warning:Beta software
-The client libraries are currently in beta development, and you should not use them in production environments.
-:::
-
 The client libraries with official support are maintained by the IOTA Foundation, and their source code can be found on the iotaledger GitHub repository.
 
 The client libraries with community support are maintained by the IOTA community and can be found on the iota-community GitHub repository.

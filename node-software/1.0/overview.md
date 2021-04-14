@@ -2,6 +2,10 @@
 
 **IOTA networks consist of interconnected nodes that run the same node software. This software gives nodes read/write access to the Tangle, allows them to validate transactions, and allows them to store transactions in their local ledgers.**
 
+:::warning:Legacy documentation
+We are developing Chrysalis, the largest update in IOTA history. If you are developing on IOTA, see [Chrysalis documentation](https://chrysalis.docs.iota.org/).
+:::
+
 -------------------------
 ![Hornet](images/hornet.png)
 ## [Hornet](root://hornet/1.1/overview.md)
